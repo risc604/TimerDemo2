@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TimerDemo</string>
+    <string name="start">Start</string>
 </resources>
